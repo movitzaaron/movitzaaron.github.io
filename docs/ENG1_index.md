@@ -14,4 +14,4 @@ This links to all of the sections, which then contain the deliverables
 
 Below are all of the Gantt charts and work breakdown diagrams.
 
-
+![Gantt Chart from 13/10/24](/assests/project_overview_gantt_chart_13.10.24.png)
