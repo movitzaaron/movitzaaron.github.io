@@ -4,22 +4,19 @@ title: "ENG1 Index"
 permalink: /eng1/index
 ---
 
-This links to all of the sections, which then contain the deliverables
+# Deliverables
+All of these link to a just a PDF, except implementation which is another page that contains everything required \
+[Requirements PDF](./assets/pdf/Req1.pdf) \
+[Architecture PDF](./assets/pdf/Arch1.pdf) \
+[Method selection and planning PDF](./assets/pdf/Plan1.pdf) \
+[Risk assessment and mitigation PDF](./assets/pdf/Risk1.pdf) \
+[Implementation page (PDF, Code and JAR)](Implementation.md) \
 
-[Requirements](Requirements.md)
-[Architecture](Architecture.md)
-[Method selection and planning](Methods.md)
-[Risk assessment and mitigation](Risks.md)
-[Implementation](Implementation.md)
+# Gantt charts and work breakdown structure
 
-Example PDF:
-<object data="./assets/pdf/test.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-or maybe this works
-
-[PDF](./assets/pdf/test.pdf)
-
-
-Below are all of the Gantt charts and work breakdown diagrams.
-
+## 13/10/24
 ![Project overview Gantt chart from 13/10/24](./assets/project_overview_gantt_chart_13.10.24.png)
+
+![Work breakdown structure](./assets/project_work_breakdown_13.10.24.png)
+
+## Next date
