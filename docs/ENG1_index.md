@@ -15,6 +15,11 @@ This links to all of the sections, which then contain the deliverables
 Example PDF:
 <object data="./assets/pdf/test.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+or maybe this works
+
+[PDF](./assets/pdf/test.pdf)
+
+
 Below are all of the Gantt charts and work breakdown diagrams.
 
-![Project overview Gantt chart from 13/10/24](./assests/project_overview_gantt_chart_13.10.24.png)
+![Project overview Gantt chart from 13/10/24](./assets/project_overview_gantt_chart_13.10.24.png)
