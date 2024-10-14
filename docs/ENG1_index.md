@@ -12,6 +12,9 @@ This links to all of the sections, which then contain the deliverables
 [Risk assessment and mitigation](Risks.md)
 [Implementation](Implementation.md)
 
+Example PDF:
+<object data="/docs/assets/pdf/test.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 Below are all of the Gantt charts and work breakdown diagrams.
 
-![Gantt Chart from 13/10/24](/assests/project_overview_gantt_chart_13.10.24.png)
+![Project overview Gantt chart from 13/10/24](/docs/assests/project_overview_gantt_chart_13.10.24.png)
