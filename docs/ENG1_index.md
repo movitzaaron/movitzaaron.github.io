@@ -10,7 +10,7 @@ All of these link to a just a PDF, except implementation which is another page t
 [Architecture page (PDF, CRC cards, and more)](Architecture.md) \
 [Method selection and planning PDF](./assets/pdf/Plan1.pdf) \
 [Risk assessment and mitigation PDF](./assets/pdf/Risk1.pdf) \
-[Implementation page (PDF, Code and JAR)](Implementation.md) \
+[Implementation page (PDF, Code and JAR)](Implementation.md)
 
 # Gantt charts and work breakdown structure
 

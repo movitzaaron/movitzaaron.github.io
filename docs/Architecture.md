@@ -3,10 +3,10 @@ layout: page
 title: "Architecture"
 permalink: /eng1/architecture
 ---
-This page holds all of the deliverables on architecture. \
+This page holds all of the deliverables on architecture. 
 
 Main PDF deliverable: 
-[Architecture PDF](./assets/pdf/Arch1.pdf) \
+[Architecture PDF](./assets/pdf/Arch1.pdf) 
 
 ![Initial CRC cards](./assets/crc_cards.png)
 
