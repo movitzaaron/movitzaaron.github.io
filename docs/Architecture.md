@@ -14,6 +14,7 @@ Main PDF deliverable:
 These diagrams were not included on the PDF in order to ensure the page limit was not breached.
 
 ## 3.3.2 Detailed activity diagram for the game
+![Main activity diagram](.assets/main_activity_diagram.png)
 
 # Previous design choices
 
