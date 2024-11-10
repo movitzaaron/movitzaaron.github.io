@@ -14,12 +14,12 @@ Main PDF deliverable:
 These diagrams were not included on the PDF in order to ensure the page limit was not breached.
 
 ## 3.3.2 Detailed activity diagram for the game
-![Main activity diagram](.assets/main_activity_diagram.png)
+![Main activity diagram](./assets/main_activity_diagram.png)
 
 # Previous design choices
 
 ## CRC cards
-![Initial CRC cards](./assets/crc_cards.png)
+![Initial CRC cards](./assets/crc_cards.jpg)
 
 The above CRC cards demonstrate the initial brainstorming process for the classes to be used for the UniSim game.  
 
