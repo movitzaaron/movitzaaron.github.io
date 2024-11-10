@@ -28,7 +28,8 @@ As most of the group were unfamiliar with the LibGDX library, some classes in th
 
 ### Structural diagrams
 
-placeable_interface_class_diagram.puml
+#### Placeable interface class diagram
+![placeable interface class diagram](./assets/placeable_interface_class_diagram.png)
 
 This is a class diagram, it shows the relationships between the Placeable interface, and the Building and Path classes that inherit from it. This explicitly links to the user requirement UR_BUILD and the associated functional requirement FR_COST as it establishes that buildings and paths are placeable objects, and have a getCost() function. We also gave the Placeable interface a checkBuildingLimit(), linking it to UR_LIMIT and FR_MAX_BUILDINGS.
 
@@ -37,15 +38,18 @@ We subsequently decided to update this architecture to be absent of the Placeabl
 
 ### Behavioural diagrams
 
+#### Place path sequence diagram
 ![Place path sequence diagram](./assets/place_path_sequence_diagram.png)
 
 This sequence diagram shows the steps involved in placing a path onto the map. This aligns with the UR_BUILD user requirement (allowing the user to place and manage paths as well as buildings). It also links to the functional requirement FR_BUILDING_PLACEMENT as paths can have their positions changed and the FR_COST functional requirement (limits the number of buildings that can be placed through a budget system) is also displayed .
 
+#### Delete mode sequence diagram
 ![Delete mode sequence diagram](./assets/delete_mode_sequence_diagram.png)
 
 This establishes the process in which the system undertakes when the user wants to delete a building/object from the map. It details how the system should enter ‘delete’ mode, updating the UI and user controls accordingly. This explicitly fulfils the functional requirement, FR_BUILDING_DELETION but also implicitly links to the user requirement UR_BUILD, as this states “The game shall allow the user to place and manage several different building types”, and, deleting buildings is considered a constituent of managing them.
 
-![Game being placed state diagram](./assets/playing_state_diagram.png)
+#### Game being placed state diagram
+![Game being played state diagram](./assets/playing_state_diagram.png)
 
 This is a general state diagram outlining the behaviour of the whole running system. This explicitly links to UR_BUILD, as it contains a BuildingConstruction event scenario which details the process in which the user goes through to place a building. The diagram subsequently  links to the functional requirements FR_BUILDING_PLACEMENT, as within the BuildingConstruction event scenario the system checks if the proposed position is valid, fulfilling the map constraints check. This diagram also demonstrates how the system fulfils the FR_BUILDING_DELETE requirement via the ObjectDeletion event handler. Finally, a clear link between this diagram and NFR_PREFORMANCE is shown, as this requires the system to appropriately handle the management of buildings shown in the diagram.
 
