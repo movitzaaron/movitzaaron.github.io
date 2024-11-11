@@ -5,7 +5,7 @@ permalink: /eng1/index
 ---
 
 # Deliverables
-All of these link to a just a PDF, except implementation which is another page that contains everything required \
+All of these link to a just a PDF, except implementation and architecture which are other pages that contains everything required for that deliverable. \
 [Requirements PDF](./assets/pdf/Req1.pdf) \
 [Architecture page (PDF, CRC cards, and more)](Architecture.md) \
 [Method selection and planning PDF](./assets/pdf/Plan1.pdf) \
